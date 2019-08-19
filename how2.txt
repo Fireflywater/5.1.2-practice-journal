@@ -1,0 +1,4 @@
+npm run build = assemble
+npm run start = server
+npm run lint = bugcheck
+npm run lintfix = bugfix
